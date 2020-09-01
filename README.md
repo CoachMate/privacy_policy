@@ -27,7 +27,7 @@ Chcemy poinformować, że korzystając z serwisu w przypadku wystąpienia błęd
 
 # Cookies
 
-Jak wiele innych stron i aplikacji, używamy cookies by poprawić jakość naszego produktu. Cookie to mały plik z danymi który zapisywany jest w lokalnej pamięci urządzenia. CoachMate może używać cookie w celu zidentyfikowania użytkownika albo próby poznania go lepiej. Jako użytkownik możesz wyłączyć możliwość używania plików cookie w swojej przeglądarce internetowej ale niektóre z naszych serwisów mogą nie funkcjonować prawidłowo.
+Jak wiele innych stron i aplikacji, używamy cookies by poprawić jakość naszego produktu. Cookie to mały plik z danymi który zapisywany jest w lokalnej pamięci urządzenia. CoachMate może używać cookie w celu zidentyfikowania użytkownika albo próby poznania go lepiej. Jako użytkownik możesz wyłączyć możliwość używania plików cookie w swojej przeglądarce internetowej, ale niektóre z naszych serwisów mogą nie funkcjonować prawidłowo.
 
 # Usunięcie konta
 
